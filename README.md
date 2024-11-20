@@ -5,12 +5,12 @@
   <h1>Hi there 👋 I'm Matt</h1>
 </div>
 
-<div>
+<div align="center">
   <p>👨‍🎓 A software engineering masters student at Nottingham Trent University </p>
   <p>💻 Developing in C# currently</p>
   <br>
   <h4>Languages I'm familiar with</h4>
-  <img src="https://skillicons.dev/icons?i=cs,c,py,js,react,html,css,">
+  <img src="https://skillicons.dev/icons?i=cs,c,py,js,react,html,css">
 </div>
 
 <!--
