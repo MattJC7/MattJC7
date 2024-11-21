@@ -11,6 +11,11 @@
   <br>
   <h4>Languages I'm familiar with</h4>
   <img src="https://skillicons.dev/icons?i=cs,c,py,js,react,html,css">
+  <hr>
+  <details>
+  <summary>⚒️ Project highlights</summary>
+    <h3>Markdown Previewer <a href="https://mattjc7.github.io/markdown-viewer/">Demo</a> | <a href="https://github.com/MattJC7/markdown-viewer">Repo</a></h3>
+  </details>
 </div>
 
 <!--
