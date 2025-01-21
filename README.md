@@ -7,7 +7,7 @@
 
 <div align="center">
   <p>👨‍🎓 A software engineering masters student at Nottingham Trent University </p>
-  <p>💻 Developing in C# currently for coursework assignments</p>
+  <p>💻 Developing with C#, Java and XML currently for coursework assignments</p>
   <br>
   <h4>Languages I'm familiar with</h4>
   <img src="https://skillicons.dev/icons?i=cs,c,py,js,react,html,css">
